@@ -1,1 +1,0 @@
-GNU printf does not convert non-valid input, whereas the C printf does. This script is basically to be able to do 'cprintf "%d" "text"'.
