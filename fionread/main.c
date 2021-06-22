@@ -1,4 +1,5 @@
 /* Adapted from https://unix.stackexchange.com/a/498065/401367. */
+/* Licensed under CC BY-SA 4.0 */
 
 #include <unistd.h>
 #include <poll.h>
