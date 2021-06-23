@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+# Usage: sudo ./install.sh (install | uninstall | clean)
 
 [ "$(id -u)" != 0 ] && {
     printf "This script needs to be executed as root.\n"
